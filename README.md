@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Talel;Full-Stack+Engineer;Real-Time+%26+Event-Driven+Systems;AI+Integration+Specialist;React+%7C+Node.js+%7C+TypeScript" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Talel;Full-Stack+Developer;Real-Time+%26+Event-Driven+Systems;AI+Integration+Specialist;React+%7C+Node.js+%7C+TypeScript" />
 </p>
 
 <h3 align="center">⚡ Building Scalable Systems • 🤖 AI-Powered Apps • 🌍 Open to Remote</h3>
