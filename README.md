@@ -24,8 +24,6 @@
 
 ---
 
-<!-- ===================== ABOUT ===================== -->
-
 ## 🚀 About Me
 
 * 💻 Full-stack developer focused on **scalable architectures & real-time systems**
@@ -35,8 +33,6 @@
 * 🌍 Based in Tunisia — open to remote opportunities
 
 ---
-
-<!-- ===================== STATS ===================== -->
 
 ## 📊 GitHub Stats
 
@@ -51,8 +47,6 @@
 
 ---
 
-<!-- ===================== ACTIVITY GRAPH ===================== -->
-
 ## 📈 Activity
 
 <p align="center">
@@ -61,41 +55,92 @@
 
 ---
 
-<!-- ===================== PROJECTS ===================== -->
-
 ## 📌 Featured Projects
 
 ### 🏥 Health Hub
 
-→ Secure medical platform with multi-role access (patients, doctors, labs)
+Secure medical coordination platform with multi-role access (patients, doctors, labs)
 → RBAC system, audit logs, modular dashboards
 
 ### 🎓 EduSmart
 
-→ PRONOTE-like education system (students, teachers, parents, admin)
+PRONOTE-like education system (students, teachers, parents, admin)
 → Role-based navigation, analytics, PWA-ready
 
 ### 🤖 AI Chatbot
 
-→ Natural language → database CRUD operations
+Natural language → database CRUD operations
 → OpenAI + PostgreSQL + secure backend
 
 ### ⚡ Real-Time Platform
 
-→ Event-driven architecture with Socket.io
+Event-driven architecture with Socket.io
 → Modular backend + real-time notifications
 
 ### 🎮 Multiplayer 3D Game
 
-→ Real-time multiplayer with WebGL + Socket.io
+Real-time multiplayer with WebGL + Socket.io
 
 ---
 
-<!-- ===================== SKILLS BAR ===================== -->
+## 📦 All Projects
+
+<details>
+<summary>Click to view all repositories</summary>
+
+### 🏆 Major Projects
+
+* 🏥 Health Hub
+* 🎓 EduSmart
+* 🤖 AI Chatbot
+* ⚡ Home Harmony Hub
+* 🎮 Multiplayer Game
+
+### 🛒 E-commerce & Business
+
+* 🛍️ Confortex
+* 🍰 Mio E-commerce
+* 👔 Gentiluomo
+* 🖨️ Diamant Print
+* 🌸 Les Jasmins
+
+### 🎨 Creative & Design
+
+* 🎨 Artisan Bloom
+* 🧵 Elegant Drapery Designs
+* 💎 LAURA
+* 🌊 Deepwater Dreams
+
+### 🧪 Others
+
+* 🤖 CSS Buddy
+* 💰 Cashier
+* 🎉 Birthday App
+
+</details>
+
+---
+
+## 🚀 Deployment & DevOps
+
+* 🌐 Frontend deployment: **Vercel**
+* ⚙️ Backend deployment: **Render (Node.js servers)**
+* 🗄️ Database hosting: **PostgreSQL / MySQL (cloud)**
+* 🔗 Architecture: **Decoupled frontend & backend (API-based)**
+
+### ✅ Experience
+
+* ✔️ Deploying React / Next.js apps to production
+* ✔️ Managing environment variables & API connections
+* ✔️ Handling CORS, authentication, and API routing
+* ✔️ Connecting frontend with remote backend services
+* ✔️ Debugging production vs development issues
+
+---
 
 ## 🧠 Skills Snapshot
 
-```
+```text
 React          ████████████████████   90%
 TypeScript     ███████████████████░   85%
 Node.js        █████████████████░░░   80%
@@ -106,26 +151,32 @@ PostgreSQL     ███████████████░░░░░   75
 
 ---
 
-<!-- ===================== CONTACT ===================== -->
+## ⚡ What I Bring
+
+* 🧠 Strong understanding of system design & architecture
+* ⚡ Real-time applications (Socket.io)
+* 🔐 Secure systems (RBAC, validation, audit logs)
+* 🤖 AI integration in real-world apps
+* 🚀 Full-stack development from idea → deployment
+
+---
 
 ## 📫 Contact
 
 <p align="center">
-  <a href="mailto:talelzamouri19@gmail.com">
+  <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="[https://linkedin.com/in/your-link](https://www.linkedin.com/in/talel-zamouri-a75b27362/)">
+  <a href="https://linkedin.com/in/your-link">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="[https://your-portfolio.com](https://portfolio-xhjh.onrender.com/)">
+  <a href="https://your-portfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
   </a>
 </p>
 
 ---
 
-<!-- ===================== FOOTER ===================== -->
-
 <p align="center">
-  ⚡ “Code. Scale. Automate.” ⚡
+  ⚡ Code • Build • Scale • Deploy ⚡
 </p>
